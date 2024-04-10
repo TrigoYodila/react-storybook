@@ -1,9 +1,11 @@
-# Setup Project React and Tailwinds
+# React and Storybook
 
 ## installation
 
 * npm install
 
-## Démarrage
+## Démarrage du projet react
 
 * npm run dev
+
+## Démarrerage du storybook
