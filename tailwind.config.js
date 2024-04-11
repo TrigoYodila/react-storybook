@@ -10,7 +10,8 @@ export default {
       secondary:'#e7e7e7',
       success:'#4CAF50',
       danger:'#f44336',
-      white:'#FFFFFF'
+      white:'#FFFFFF',
+      gray:'#bbbbbb'
     }
   },
   plugins: [],
