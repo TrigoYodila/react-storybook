@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 
 export const Button = ({ variant = 'primary', children }) => {
   return (
-    <button className={`text-white py-2 px-4 text-center inline-block font-md rounded-md cursor-pointer ${variant}`}>
+    <button className={`text-white py-2 px-4 text-center inline-block font-md rounded-md cursor-pointer w-fit ${variant}`}>
       {children}
     </button>
   )
